@@ -40,8 +40,6 @@ hackathon-landing/
 └── README.md
 ```
 
-## Screenshots
-_Add screenshots of the hero, timeline, and FAQ sections here before submitting._
 
 ## Design notes
 - **Palette:** deep navy/purple background (`#12081F`), magenta (`#FF2E9A`), cyan (`#3EF2C8`), yellow (`#FFD23E`) — chosen to read as "arcade cabinet lit up in a dark room" rather than a generic dark theme.
